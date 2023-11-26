@@ -1,0 +1,29 @@
+\ul{background-color:black;
+    padding:30px;
+    text-align:center;
+}
+li{display:inline;
+    font-size:30px;
+    word-spacing:30px;
+}
+a{color:white;
+    text-decoration:none;
+}
+h1{
+  background-color:black;
+  color:white;
+  font-size:40px;
+  width:600px;
+  border: solid red 2px;
+}
+#tagline{
+display:inline;
+padding:10px ;
+}
+#natgeo{color:black;}
+h2{background-color:white;
+  font-size:2.4vw;
+  width:100%;
+  border: solid black 2px;
+  margin:left;
+}
